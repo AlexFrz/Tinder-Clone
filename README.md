@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### The URL of the hosted project : https://tinder-c3a9b.web.app/
 
 In the project directory, you can run:
 
